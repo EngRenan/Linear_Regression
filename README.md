@@ -1,1 +1,1 @@
-# Linear_Regression
+# Regressão linear é um método estatístico que permite estimar a relação entre uma variável dependente (y) e uma ou mais variáveis independentes (x). Ele é utilizado para prever valores futuros para a variável dependente, com base em valores conhecidos das variáveis independentes. O codigo deste arquivo visa prever o custo de diária de um imovel baseado no numero de pessoas
